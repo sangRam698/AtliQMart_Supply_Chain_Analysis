@@ -10,13 +10,17 @@ To address this issue, the management has tasked the supply chain analytics team
 🎯 Task
 Imagine yourself as Peter Pandey, a newly joined data analyst in the supply chain team. Your role is to:
 
-✅ Build a Dashboard to track service levels.
+✅ Build a Dashboard to track service levels
+
 ✅ Create Metrics based on the metric list provided.
+
 ✅ Analyze & Derive Insights beyond the stakeholder requirements.
 
 You will be provided with:
 📌 Business knowledge & explanations
+
 📌 Metadata
+
 📌 Peter Pandey’s notes from the stakeholder meeting
 📌 Problem Files (Download below)
 
