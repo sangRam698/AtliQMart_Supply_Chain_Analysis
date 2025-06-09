@@ -17,6 +17,7 @@ Imagine yourself as Peter Pandey, a newly joined data analyst in the supply chai
 ✅ Analyze & Derive Insights beyond the stakeholder requirements.
 
 You will be provided with:
+
 📌 Business knowledge & explanations
 
 📌 Metadata
