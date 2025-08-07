@@ -20,6 +20,19 @@ You will be provided with:
 
 📌 Business knowledge & explanations
 
+## Data Model 
+
+<p align="center">
+  <img src="https://github.com/sangRam698/AtliQMart_Supply_Chain_Analysis/blob/main/Assets/Screenshot%202025-08-07%20175008.png" height="400">
+</p>
+
+## Dashboard 
+
+<p align="center">
+  <img src="https://github.com/sangRam698/AtliQMart_Supply_Chain_Analysis/blob/main/Assets/atliq%20fmcg%20dashboard.png" width="300">
+</p>
+
+
 📌 Metadata
 
 📌 Peter Pandey’s notes from the stakeholder meeting
