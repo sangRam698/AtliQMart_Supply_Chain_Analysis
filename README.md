@@ -38,3 +38,6 @@ You will be provided with:
   <img src="https://github.com/sangRam698/AtliQMart_Supply_Chain_Analysis/blob/main/Assets/atliq%20fmcg%20dashboard.png" width="300">
 </p>
 
+## Live Dashboard
+- 🔗 [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWRkMTgwNjYtNDU1OS00OWE4LTk3M2YtYTIzODE4NzZjOGVjIiwidCI6IjVjMGNmMWQwLTZhNjItNGY4Ny1iYWI2LWEwZGE1MmYwZTNmZiJ9)
+
